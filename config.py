@@ -1,0 +1,7 @@
+token = '681503199:AAHS_UdkVR99rPLvQQ6lqEfWjLUrF-gn1gk'
+HOST = 'localhost'
+DATABASE_URL = 'complimens'
+USERNAME = 'app_user'
+PASSWORD = 'radikal'
+admin_id='31036763'
+secret_key='12345'
